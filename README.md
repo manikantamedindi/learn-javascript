@@ -4,90 +4,104 @@ Welcome to the **30-Day JavaScript Learning Plan** – designed to take you from
 
 ---
 
-## 📅 Daily Plan Overview
+## ✅ Progress Tracker
 
-| Day       | Topic                  | Subtopics                                | Practice                     |
-| --------- | ---------------------- | ---------------------------------------- | ---------------------------- |
-| **Day 1** | JS Intro & Setup       | How JS runs, Console, VS Code setup      | `console.log()`, `alert()`   |
-| **Day 2** | Variables & Data Types | `var`, `let`, `const`, types, `typeof`   | Declare & log variables      |
-| **Day 3** | Operators              | Arithmetic, comparison, logical, ternary | Build a calculator           |
-| **Day 4** | Conditionals           | `if`, `else`, `switch`                   | Grade calculator             |
-| **Day 5** | Loops                  | `for`, `while`, `do...while`             | Multiplication table         |
-| **Day 6** | Functions              | Parameters, return, arrow functions      | Create sum & greet functions |
-| **Day 7** | Practice Project       | Mini: BMI or Tip Calculator              | Use HTML + JS                |
+### 📘 Week 1: Basics of JavaScript
 
----
-
-## 🧰 Week 2: Arrays, Objects, DOM
-
-| Day        | Topic                   | Subtopics                        | Practice               |
-| ---------- | ----------------------- | -------------------------------- | ---------------------- |
-| **Day 8**  | Arrays Basics           | Create, access, loop             | Print names, ages      |
-| **Day 9**  | Array Methods           | `push`, `pop`, `slice`, `splice` | List manager           |
-| **Day 10** | Adv. Array Methods      | `map`, `filter`, `reduce`        | Student marks analyzer |
-| **Day 11** | Objects                 | Nested objects, access/update    | Create user object     |
-| **Day 12** | Object Methods & `this` | Method inside object             | `user.greet()`         |
-| **Day 13** | DOM Basics              | `querySelector`, `innerHTML`     | Text changer, counter  |
-| **Day 14** | DOM Events              | `click`, `submit`, `input`       | Form handler           |
+- [x] **Day 1** - Introduction to JavaScript
+      _Console, alerts, how JS runs, VS Code setup_
+- [ ] **Day 2** - Variables & Data Types
+      _var, let, const, typeof_
+- [ ] **Day 3** - Operators
+      _Arithmetic, Comparison, Logical, Ternary_
+- [ ] **Day 4** - Conditional Statements
+      _if, else if, else, switch_
+- [ ] **Day 5** - Loops
+      _for, while, do...while_
+- [ ] **Day 6** - Functions
+      _Function declaration, arrow functions, return values_
+- [ ] **Day 7** - Mini Project: BMI Calculator or Tip Calculator
 
 ---
 
-## ⚙️ Week 3: Intermediate to Advanced JS
+### 🧰 Week 2: Arrays, Objects, and DOM
 
-| Day        | Topic                  | Subtopics                        | Practice                         |
-| ---------- | ---------------------- | -------------------------------- | -------------------------------- |
-| **Day 15** | Scope & Hoisting       | Global vs block                  | Output prediction                |
-| **Day 16** | Closures               | Lexical scope, inner functions   | Counter function                 |
-| **Day 17** | `this`, Bind, Call     | Arrow vs regular                 | Call a method on different users |
-| **Day 18** | ES6 Features I         | Template literals, destructuring | String templates                 |
-| **Day 19** | ES6 Features II        | Spread, rest, optional chaining  | Merge & clone objects            |
-| **Day 20** | Array/Object Deep Dive | Nested access, loops             | Student records                  |
-| **Day 21** | Mini Project           | Todo List (add/remove/toggle)    | Full app in vanilla JS           |
-
----
-
-## 🌐 Week 4: Async JS, API, Storage
-
-| Day        | Topic          | Subtopics                        | Practice               |
-| ---------- | -------------- | -------------------------------- | ---------------------- |
-| **Day 22** | Callbacks      | Callback hell, `setTimeout`      | Log steps after delay  |
-| **Day 23** | Promises       | `new Promise()`, `.then()`       | Fake API call          |
-| **Day 24** | Async/Await    | `async`, `await`, `try/catch`    | Async fetch simulation |
-| **Day 25** | Fetch API      | `fetch()`, `.json()`             | Random Joke API        |
-| **Day 26** | Error Handling | `try...catch`, `throw`           | Form validator         |
-| **Day 27** | JSON & Storage | `JSON.stringify`, `localStorage` | Notes app              |
-| **Day 28** | Mini Project   | Weather App using API            | Fetch + DOM update     |
+- [ ] **Day 8** - Arrays Basics
+      _Create, access, loop through arrays_
+- [ ] **Day 9** - Array Methods
+      _push, pop, shift, unshift, slice, splice_
+- [ ] **Day 10** - Advanced Array Methods
+      _map, filter, reduce, find, sort_
+- [ ] **Day 11** - Objects
+      _Object creation, nesting, accessing properties_
+- [ ] **Day 12** - Object Methods and `this`
+- [ ] **Day 13** - DOM Basics
+      _querySelector, getElementById, innerText, innerHTML_
+- [ ] **Day 14** - DOM Events
+      _click, input, change, submit_
 
 ---
 
-## 🏁 Week 5: Final Projects & React/Node Prep
+### ⚙️ Week 3: Intermediate JavaScript
 
-| Day        | Topic            | Subtopics                          | Practice              |
-| ---------- | ---------------- | ---------------------------------- | --------------------- |
-| **Day 29** | Final Project I  | Expense Tracker / Quiz App         | Arrays + DOM + Events |
-| **Day 30** | Final Project II | Recap, Structure, React/Node Intro | Modular JS & Roadmap  |
-
----
-
-## 📚 After 30 Days
-
-You'll be ready to learn:
-
-- ✅ **React.js** – Components, Props, State, Hooks
-- ✅ **Node.js** – Express server, APIs, File handling
-- ✅ **MongoDB** – NoSQL database for backend
-- ✅ **Full Stack Projects** – MERN stack development
+- [ ] **Day 15** - Scope & Hoisting
+      _Global, function, block scope_
+- [ ] **Day 16** - Closures
+      _Lexical environment, inner functions_
+- [ ] **Day 17** - `this`, Call, Apply, Bind
+- [ ] **Day 18** - ES6 Features Part 1
+      _let/const, template literals, destructuring_
+- [ ] **Day 19** - ES6 Features Part 2
+      _spread/rest, optional chaining, nullish coalescing_
+- [ ] **Day 20** - Deep Dive Arrays & Objects
+- [ ] **Day 21** - Mini Project: Todo List App
 
 ---
 
-## 📦 Recommended Resources
+### 🌐 Week 4: Async JS, APIs, and Storage
+
+- [ ] **Day 22** - Callbacks & Callback Hell
+- [ ] **Day 23** - Promises
+      _.then(), .catch(), chaining_
+- [ ] **Day 24** - Async / Await
+      _Handling async logic with cleaner syntax_
+- [ ] **Day 25** - Fetch API
+      _Calling external APIs and displaying data_
+- [ ] **Day 26** - Error Handling
+      _try/catch, throw_
+- [ ] **Day 27** - JSON & Local Storage
+      _Storing and retrieving data in the browser_
+- [ ] **Day 28** - Mini Project: Weather App using API
+
+---
+
+### 🏁 Week 5: Final Projects & Full Stack Prep
+
+- [ ] **Day 29** - Final Project I: Quiz App / Expense Tracker
+- [ ] **Day 30** - Final Project II + React & Node.js Intro
+      _How JS leads into React and Node development_
+
+---
+
+## 📘 After 30 Days
+
+Once done, you'll be confident in:
+
+- ✅ Core JavaScript (basic to advanced)
+- ✅ DOM manipulation
+- ✅ Working with APIs
+- ✅ Ready to learn **React**, **Node.js**, and **MongoDB**
+
+---
+
+## 📚 Resources
 
 - [JavaScript.info](https://javascript.info/)
-- [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [FreeCodeCamp JavaScript](https://www.freecodecamp.org/learn/)
-- [Codevolution (YouTube)](https://www.youtube.com/@Codevolution)
+- [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [Codevolution YouTube](https://www.youtube.com/@Codevolution)
 - [JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
 
 ---
 
-> 💪 Stay consistent and code daily. You’ll become a full stack developer faster than you think. Let’s go!
+> 💡 **Pro Tip:** Check each box daily to stay motivated and focused. You’re on your way to becoming a full-stack developer!
